@@ -7,17 +7,13 @@ In the current charitable landscape, transparency and efficiency in donations ar
 
 - **Enhance Transparency:** Ensure that donations are traceable and verifiable through smart contracts, reducing the potential for misuse and ensuring that funds are directed to the intended recipients.
 - **Improve Efficiency:** Streamline the donation process using blockchain technology, minimizing delays and administrative burdens associated with traditional donation systems.
-- **Support NGO Employment:** Provide job opportunities within NGOs by creating a platform that facilitates funding and employment directly through the DApp.
 - **Integrate Decentralized Storage:** Utilize Filecoin for secure and decentralized storage of important documents and data related to charitable activities.
-- **Offer an NFT Marketplace:** Introduce an optional NFT marketplace to allow donors to contribute to charitable causes through unique digital assets, enhancing engagement and funding opportunities.
 
 ## Features
 
 Some of the notable feature provided by our dev application
 
 - **Decentralized Donations**: Enable users to donate funds transparently over the blockchain to the other user.
-- **Job Applications**: Allow organizations to post job listings and accept applications for the NGO.
-- **NFT Marketplace**: Enable users to mint, buy, and sell NFTs to support charitable and fund raising  causes.
 - **Filecoin Integration**: Store data securely and in a decentralized manner using Filecoin.
 
 ## Tech Stack
