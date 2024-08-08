@@ -68,4 +68,4 @@ Making better solutions for the future.Our team includes
 **Devfolio Team - Sigma Squad**
 - [sai karhtik ketha](https://devfolio.co/@saiisback)
 - [akash sarangi](https://devfolio.co/@Roxen-AS)
-- [karthik sharma](https://devfolio.co/@i-am-batman-28)
+- [karthik sarma](https://devfolio.co/@i-am-batman-28)
