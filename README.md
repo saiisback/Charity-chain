@@ -56,6 +56,5 @@ This project is licensed under the [MIT License](https://choosealicense.com/lice
 Making better solutions for the future.Our team includes
 
 - [@saiisback](https://www.github.com/saiisback)
-- [@i-am-batman-28](https://github.com/i-am-batman-28)
 - [@Roxen-AS](https://github.com/Roxen-AS)
 
