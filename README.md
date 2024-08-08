@@ -63,4 +63,5 @@ Making better solutions for the future.Our team includes
 
 - [@saiisback](https://www.github.com/saiisback)
 - [@Roxen-AS](https://github.com/Roxen-AS)
+- [@destroyerved](https://github.com/destroyerved)
 
