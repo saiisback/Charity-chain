@@ -1,9 +1,15 @@
 
 # Charity Chain
 
+In the current charitable landscape, transparency and efficiency in donations are significant challenges. Traditional donation systems often lack clear visibility into fund allocation and can be marred by inefficiencies, leading to delays and misuse of funds. Additionally, NGOs and charitable organizations frequently struggle to secure funding and provide employment opportunities due to limited financial resources and administrative overhead.
 
+**Charity Chain aims to address these issues by leveraging the Ethereum blockchain and decentralized technologies. The project seeks to:**
 
-Charity Chain is a Decentralized Charity DApp built on the Ethereum blockchain. The primary objective of this project is to facilitate transparent and efficient charitable donations using smart contracts and Blockchain Technologies,helping the money to reach to needful people while also providing Jobs in NGO organistaions and having NFT marketplace as option to donate to this cause. The project integrates Filecoin for decentralized storage and uses Hardhat for development and deployment.
+- **Enhance Transparency:** Ensure that donations are traceable and verifiable through smart contracts, reducing the potential for misuse and ensuring that funds are directed to the intended recipients.
+- **Improve Efficiency:** Streamline the donation process using blockchain technology, minimizing delays and administrative burdens associated with traditional donation systems.
+- **Support NGO Employment:** Provide job opportunities within NGOs by creating a platform that facilitates funding and employment directly through the DApp.
+- **Integrate Decentralized Storage:** Utilize Filecoin for secure and decentralized storage of important documents and data related to charitable activities.
+- **Offer an NFT Marketplace:** Introduce an optional NFT marketplace to allow donors to contribute to charitable causes through unique digital assets, enhancing engagement and funding opportunities.
 
 ## Features
 
