@@ -21,6 +21,7 @@ Some of the notable feature provided by our dev application
 - **MetaMask**: Wallet used to manage private keys and interact with the DApp.
 - **React**: JavaScript library for building the front-end user interface.
 - **Ethers.js**: Library to interact with the Ethereum blockchain.
+- **thridweb**:Framework for smooth Dapp deployment
 
 ```Note : More  tech stack be added in the course of the development```
 
@@ -36,6 +37,7 @@ This project was developed as part of a hackathon. The idea, implementation, and
 
 - [what is charity fraud](https://www.britannica.com/money/charity-fraud)
 - [Case study of charitable funds used for wrong ways](https://www.gov.uk/government/case-studies/case-studies-of-insider-fraud-in-charities)
+- [Report on the Frauds done by Charity Raisers 2023](https://www.bdo.co.uk/getmedia/f7053446-3c29-4047-ac73-2b4a96692f0b/IND-NFP-Charity-fraud-report-2023.pdf)
 - [Solidity Documentation](https://docs.soliditylang.org/)
 - [Hardhat Documentation](https://hardhat.org/getting-started/)
 - [React Documentation](https://reactjs.org/docs/getting-started.html)
